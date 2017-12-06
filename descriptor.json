@@ -1,0 +1,17 @@
+﻿{
+  "Descriptor": {
+    "UId": "e09103ad-389d-4535-b2ad-0f1279f7401c",
+    "PackageVersion": "7.8.0",
+    "Name": "sdkCreateDetailWithEditableGrid",
+    "ModifiedOnUtc": "\/Date(1482215976000)\/",
+    "Maintainer": "Customer",
+    "Description": "Создание детали с редактируемым реестром",
+    "DependsOn": [
+      {
+        "UId": "e14dcfb1-e53c-4439-a876-af7f97083ed9",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise"
+      }
+    ]
+  }
+}

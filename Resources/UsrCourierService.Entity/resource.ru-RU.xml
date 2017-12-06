@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ru-RU">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Курьерская служба" />
+			<Item Name="Columns.UsrAccount.Caption" Value="Контрагент" />
+			<Item Name="Columns.UsrOrder.Caption" Value="Заказ" />
+		</Items>
+	</Group>
+</Resources>

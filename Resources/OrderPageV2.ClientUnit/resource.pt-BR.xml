@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-BR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChangeInvoice.Value" Value="Uma fatura foi gerada para o pagamento. Você deseja modificar os dados da fatura?" />
+			<Item Name="LocalizableStrings.CreateContract.Value" Value="Novo contrato com base no pedido" />
+			<Item Name="LocalizableStrings.CreateInvoiceByOrderCaption.Caption" Value="Nova fatura com base neste perdido" />
+			<Item Name="LocalizableStrings.CreateInvoiceByOrderCaption.Value" Value="Nova fatura com base neste perdido" />
+			<Item Name="LocalizableStrings.FileNotesTabCaption.Value" Value="Anexos e notas" />
+			<Item Name="LocalizableStrings.LeadTabCaption.Value" Value="Leads" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Ligar os produtos encomendados ao contrato?" />
+			<Item Name="LocalizableStrings.OpportunityCaption.Value" Value="Oportunidade" />
+			<Item Name="LocalizableStrings.OpportunityTip.Value" Value="Uma oportunidade para a qual o pedido foi criado. As pesquisas são filtradas pelo contato e conta especificada no pedido" />
+			<Item Name="LocalizableStrings.OrderPassportTabCaption.Value" Value="Detalhes do pedido" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Todos" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Selecionar" />
+		</Items>
+	</Group>
+</Resources>

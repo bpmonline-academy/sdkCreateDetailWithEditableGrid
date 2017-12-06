@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="de-DE">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChangeInvoice.Value" Value="Eine Rechnung wurde für die Zahlung generiert. Möchten Sie das Rechnungsdatum ändern?" />
+			<Item Name="LocalizableStrings.CreateContract.Value" Value="Neuer Vertrag auf Grundlage Bestellung" />
+			<Item Name="LocalizableStrings.CreateInvoiceByOrderCaption.Caption" Value="Neue Rechnung auf Grundlage dieser Bestellung" />
+			<Item Name="LocalizableStrings.CreateInvoiceByOrderCaption.Value" Value="Neue Rechnung auf Grundlage dieser Bestellung" />
+			<Item Name="LocalizableStrings.CreateInvoiceFromOrderProcessNotSet.Caption" Value="CreateInvoiceFromOrderProcessNotSet" />
+			<Item Name="LocalizableStrings.CreateInvoiceFromOrderProcessNotSet.Value" Value="SysSetting CreateInvoiceFromOrderProcess does not contain any process value." />
+			<Item Name="LocalizableStrings.FileNotesTabCaption.Value" Value="Anhänge und Notizen" />
+			<Item Name="LocalizableStrings.LeadTabCaption.Value" Value="Leads" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Bestellte Produkte mit Vertrag verbinden?" />
+			<Item Name="LocalizableStrings.OpportunityCaption.Value" Value="Opportunity" />
+			<Item Name="LocalizableStrings.OpportunityTip.Value" Value="Einne Opportunity für welche die Bestellung erstellt wurde. Die Suche wurde nach Kontakt und Account aus der Bestellung gefiltert." />
+			<Item Name="LocalizableStrings.OrderPassportTabCaption.Value" Value="Bestelldetails" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Alle" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Auswählen" />
+		</Items>
+	</Group>
+</Resources>

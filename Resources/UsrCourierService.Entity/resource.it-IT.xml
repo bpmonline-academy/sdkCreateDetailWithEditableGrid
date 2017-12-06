@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="CourierService" />
+			<Item Name="Columns.UsrAccount.Caption" Value="Account" />
+			<Item Name="Columns.UsrOrder.Caption" Value="Order" />
+		</Items>
+	</Group>
+</Resources>

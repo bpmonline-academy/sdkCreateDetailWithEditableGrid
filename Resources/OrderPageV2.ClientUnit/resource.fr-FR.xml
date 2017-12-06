@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChangeInvoice.Value" Value="Une facture a été générée pour le paiement. Voulez-vous modifier les données de cette facture?" />
+			<Item Name="LocalizableStrings.CreateContract.Value" Value="Établir un nouveau contrat pour cette commande" />
+			<Item Name="LocalizableStrings.CreateInvoiceByOrderCaption.Caption" Value="Établir une nouvelle facture pour cette commande" />
+			<Item Name="LocalizableStrings.CreateInvoiceByOrderCaption.Value" Value="Établir une nouvelle facture pour cette commande" />
+			<Item Name="LocalizableStrings.CreateInvoiceFromOrderProcessNotSet.Caption" Value="CreateInvoiceFromOrderProcessNotSet" />
+			<Item Name="LocalizableStrings.CreateInvoiceFromOrderProcessNotSet.Value" Value="SysSetting CreateInvoiceFromOrderProcess does not contain any process value." />
+			<Item Name="LocalizableStrings.FileNotesTabCaption.Value" Value="Pièces jointes et notes" />
+			<Item Name="LocalizableStrings.LeadTabCaption.Value" Value="Leads" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Associer les produits commandés au contrat?" />
+			<Item Name="LocalizableStrings.OpportunityCaption.Value" Value="Opportunité" />
+			<Item Name="LocalizableStrings.OpportunityTip.Value" Value="Une opportunité pour laquelle la commande a été préparée. Les tables de référence sont filtrées sur le contact et le compte spécifiés dans la commande" />
+			<Item Name="LocalizableStrings.OrderPassportTabCaption.Value" Value="Détails de la commande" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Tous" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Sélectionner" />
+		</Items>
+	</Group>
+</Resources>

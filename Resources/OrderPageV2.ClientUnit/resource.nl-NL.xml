@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ChangeInvoice.Value" Value="Een factuur is gegenereerd voor de betaling. Wilt u de factuur gegevens te wijzigen?" />
+			<Item Name="LocalizableStrings.CreateContract.Value" Value="Nieuw contract gebaseerd op order" />
+			<Item Name="LocalizableStrings.CreateInvoiceByOrderCaption.Caption" Value="Nieuwe factuur op basis van de order" />
+			<Item Name="LocalizableStrings.CreateInvoiceByOrderCaption.Value" Value="Nieuwe factuur op basis van de order" />
+			<Item Name="LocalizableStrings.FileNotesTabCaption.Value" Value="Bijlagen en notities" />
+			<Item Name="LocalizableStrings.LeadTabCaption.Value" Value="Leads" />
+			<Item Name="LocalizableStrings.LinkProductCaption.Value" Value="Koppel de bestelde producten aan contract?" />
+			<Item Name="LocalizableStrings.OpportunityCaption.Value" Value="Opportunity" />
+			<Item Name="LocalizableStrings.OpportunityTip.Value" Value="Een opportunity waarvoor de order is gemaakt. De lookups worden gefilterd door het contact en het account in de order" />
+			<Item Name="LocalizableStrings.OrderPassportTabCaption.Value" Value="Orderdetails" />
+			<Item Name="LocalizableStrings.QuestionAllCaption.Value" Value="Alle" />
+			<Item Name="LocalizableStrings.QuestionChoiceCaption.Value" Value="Selecteer" />
+		</Items>
+	</Group>
+</Resources>
